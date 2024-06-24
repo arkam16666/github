@@ -1,5 +1,3 @@
 # github
 
 sawaddee
-
-arka123
